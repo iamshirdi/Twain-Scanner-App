@@ -1,0 +1,18 @@
+C:\Users\asmna\source\repos\netmasterWinforums\netmasterWinforums\bin\x86\Debug\netmasterWinforums.exe
+C:\Users\asmna\source\repos\netmasterWinforums\netmasterWinforums\bin\x86\Debug\netmasterWinforums.pdb
+C:\Users\asmna\source\repos\netmasterWinforums\netmasterWinforums\obj\x86\Debug\netmasterWinforums.Form1.resources
+C:\Users\asmna\source\repos\netmasterWinforums\netmasterWinforums\obj\x86\Debug\netmasterWinforums.Properties.Resources.resources
+C:\Users\asmna\source\repos\netmasterWinforums\netmasterWinforums\obj\x86\Debug\netmasterWinforums.csproj.GenerateResource.cache
+C:\Users\asmna\source\repos\netmasterWinforums\netmasterWinforums\obj\x86\Debug\netmasterWinforums.csproj.CoreCompileInputs.cache
+C:\Users\asmna\source\repos\netmasterWinforums\netmasterWinforums\obj\x86\Debug\netmasterWinforums.exe
+C:\Users\asmna\source\repos\netmasterWinforums\netmasterWinforums\obj\x86\Debug\netmasterWinforums.pdb
+C:\Users\asmna\source\repos\netmasterWinforums\netmasterWinforums\obj\x86\Debug\netmasterWinforums.csprojAssemblyReference.cache
+D:\Cloud\Onedrive\OneDrive - personal\Documents\Neat Scanner\netmasterWinforums\netmasterWinforums\bin\x86\Debug\netmasterWinforums.exe
+D:\Cloud\Onedrive\OneDrive - personal\Documents\Neat Scanner\netmasterWinforums\netmasterWinforums\bin\x86\Debug\netmasterWinforums.pdb
+D:\Cloud\Onedrive\OneDrive - personal\Documents\Neat Scanner\netmasterWinforums\netmasterWinforums\obj\x86\Debug\netmasterWinforums.csprojAssemblyReference.cache
+D:\Cloud\Onedrive\OneDrive - personal\Documents\Neat Scanner\netmasterWinforums\netmasterWinforums\obj\x86\Debug\netmasterWinforums.Form1.resources
+D:\Cloud\Onedrive\OneDrive - personal\Documents\Neat Scanner\netmasterWinforums\netmasterWinforums\obj\x86\Debug\netmasterWinforums.Properties.Resources.resources
+D:\Cloud\Onedrive\OneDrive - personal\Documents\Neat Scanner\netmasterWinforums\netmasterWinforums\obj\x86\Debug\netmasterWinforums.csproj.GenerateResource.cache
+D:\Cloud\Onedrive\OneDrive - personal\Documents\Neat Scanner\netmasterWinforums\netmasterWinforums\obj\x86\Debug\netmasterWinforums.csproj.CoreCompileInputs.cache
+D:\Cloud\Onedrive\OneDrive - personal\Documents\Neat Scanner\netmasterWinforums\netmasterWinforums\obj\x86\Debug\netmasterWinforums.exe
+D:\Cloud\Onedrive\OneDrive - personal\Documents\Neat Scanner\netmasterWinforums\netmasterWinforums\obj\x86\Debug\netmasterWinforums.pdb

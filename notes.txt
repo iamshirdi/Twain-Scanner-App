@@ -1,0 +1,1 @@
+need to work on assining handle, message que system, converting images to bytes for web application.

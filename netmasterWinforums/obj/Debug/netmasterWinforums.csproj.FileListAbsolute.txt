@@ -1,0 +1,5 @@
+C:\Users\asmna\source\repos\netmasterWinforums\netmasterWinforums\obj\Debug\netmasterWinforums.csprojAssemblyReference.cache
+C:\Users\asmna\source\repos\netmasterWinforums\netmasterWinforums\obj\Debug\netmasterWinforums.Form1.resources
+C:\Users\asmna\source\repos\netmasterWinforums\netmasterWinforums\obj\Debug\netmasterWinforums.Properties.Resources.resources
+C:\Users\asmna\source\repos\netmasterWinforums\netmasterWinforums\obj\Debug\netmasterWinforums.csproj.GenerateResource.cache
+C:\Users\asmna\source\repos\netmasterWinforums\netmasterWinforums\obj\Debug\netmasterWinforums.csproj.CoreCompileInputs.cache
