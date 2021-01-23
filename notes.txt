@@ -1,5 +1,5 @@
 need to work on assining handle, message que system, converting images to bytes for web application.
-Twain32dll supports limited twain version
+Twain32dll supports limited twain version enough for basic driver gui implementation 
 New twain dsm supports latest twain versions and backward compatible
 
 Window hook/message que system refer ntwain library for implementation.
