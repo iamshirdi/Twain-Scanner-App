@@ -1,5 +1,5 @@
 # Scanner-winforms-app
-- I tried recreating working version of netmaster twain in windows forums
+- I have recreated (a sample working) version of netmaster twain in windows forums
 https://www.codeproject.com/Articles/1376/NET-TWAIN-image-scanner
 
 ##Twain scanner WinForms App 
