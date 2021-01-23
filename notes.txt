@@ -1,1 +1,8 @@
 need to work on assining handle, message que system, converting images to bytes for web application.
+Twain32dll supports limited twain version
+New twain dsm supports latest twain versions and backward compatible
+
+Window hook/message que system refer ntwain library for implementation.
+Background service can be implemented(without winforums) but had to write custom window function using gui32.dll and window handle without ui and hook into it.
+Api can be implemented using Httplistner window forums or background service respectively library etc
+Programming implementation can also be possible similar manner refer twain docs
