@@ -1,8 +1,9 @@
 need to work on assining handle, message que system, converting images to bytes for web application.
-Twain32dll supports limited twain version enough for basic driver gui implementation 
+Twain32dll supports limited twain version enough for basic driver gui implementation .
+twain32.dll has twain compailitblity layer unlike twaindsm so can communicate with wia (twacker uses twain32)---compatilibty doesnt mean all wia drivers work good error follows
 New twain dsm supports latest twain versions and backward compatible
 
-wia can be used for wiaontwain.ds functionality
+wia can be used to control twain drivers based on wiaontwain-- may not support full errors follows since its compatiblity layer
 
 Window hook/message que system refer ntwain library for implementation.
 Background service can be implemented(without winforums) but had to write custom window function using user32.dll and window handle without ui and hook into it.
