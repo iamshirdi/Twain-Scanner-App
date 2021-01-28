@@ -2,7 +2,7 @@
 - I have recreated (a sample working) version of netmaster twain in windows forums
 https://www.codeproject.com/Articles/1376/NET-TWAIN-image-scanner
 
-# Please check Twain docummentation this is not your go to documentation
+### Please check Twain docummentation this is not your go to documentation
 For better understanding as starters refer below link. 
 https://www.codeproject.com/Articles/991207/TWAINComm-A-Csharp-TWAIN-Communications-Library
 
