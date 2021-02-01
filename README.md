@@ -1,4 +1,4 @@
-# Twain Windows API (sample implementation) 
+# Twain Windows API (sample library implementation) 
 - I have recreated (a sample working) version of netmaster twain in windows forums
 https://www.codeproject.com/Articles/1376/NET-TWAIN-image-scanner
 
